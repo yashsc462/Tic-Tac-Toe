@@ -29,6 +29,7 @@ Vite (for fast development)
 1️⃣ Clone the Repository
 
  git clone https://github.com/yashsc462/Tic-Tac-Toe.git
+ 
  cd Tic-Tac-Toe
 
 2️⃣ Install Dependencies
@@ -42,7 +43,10 @@ Vite (for fast development)
 Open your browser and go to http://localhost:5173/ to play the game.
 
 **📸 User Interface**
-![TTT2](https://github.com/user-attachments/assets/9b9e5cb6-5a93-42b2-a9d2-c543341854b6)
+![TTT1](https://github.com/user-attachments/assets/9c88a61d-49e5-4189-ad1f-6ce8c11ec8be)
+
+![TTT2](https://github.com/user-attachments/assets/d3f92ffd-622b-49e9-8ace-29daafad3c51)
+
 
 **🤝 Contributing**
 
